@@ -18,6 +18,7 @@ DiziFont.ttf是使用开源的字体制作软件FontForge所编写的字体，�
 - \：小节线
 
 一个示例如下所示：
+
 ![avatar](files/jianpuex.png)
 
 ## （可选）Step3：将简谱现实的Word文档转成MusicXML格式
