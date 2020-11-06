@@ -19,7 +19,7 @@ DiziFont.ttf是使用开源的字体制作软件FontForge所编写的字体，�
 
 一个示例如下所示：
 
-![image](files/jianpuex.png)
+![image](https://github.com/hrsoup/A-Method-to-Collect-Jianpu/files/jianpuex.png)
 
 ## （可选）Step3：将简谱现实的Word文档转成MusicXML格式
 
