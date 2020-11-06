@@ -19,7 +19,7 @@ DiziFont.ttf是使用开源的字体制作软件FontForge所编写的字体，�
 
 一个示例如下所示：
 
-![avatar](files/jianpuex.png)
+![image](files/jianpuex.png)
 
 ## （可选）Step3：将简谱现实的Word文档转成MusicXML格式
 
@@ -29,7 +29,7 @@ DiziFont.ttf是使用开源的字体制作软件FontForge所编写的字体，�
 
 在MuseScore中可对MusixXML格式文件进行五线谱式的显示，一个例子如下：
 
-![avatar](files/staffex.png)
+![image](files/staffex.png)
 
 -----------------
 
