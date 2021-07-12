@@ -23,7 +23,7 @@ DiziFont.ttf是使用开源的字体制作软件FontForge所编写的字体，�
 
 ## （可选）Step3：将简谱现实的Word文档转成MusicXML格式
 
-使用Word2XML.ipynb可将Word文档转换成MusicXML文件。编程思路后续更新，主要涉及到分词、模式识别、互斥锁等计算机相关知识及部分基础乐理知识。
+使用Word2XML.ipynb可将Word文档转换成MusicXML文件。
 
 ## （可选）Step4：在MuseScore中打开MusicXML格式文件
 
