@@ -19,11 +19,9 @@ DiziFont.ttf是使用开源的字体制作软件FontForge所编写的字体，�
 
 ![image](https://github.com/hrsoup/A-Method-to-Collect-Jianpu/blob/main/files/jianpuex.png)
 
-## （可选）Step3：将简谱显示的Word文档转成MusicXML格式
+## Step3：将简谱显示的Word文档转成MusicXML格式
 
 使用Word2XML.ipynb可将Word文档转换成MusicXML文件。
-
-## （可选）Step4：在MuseScore中打开MusicXML格式文件
 
 在MuseScore中可对MusicXML格式文件进行五线谱式的显示，一个例子如下：
 
