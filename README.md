@@ -1,4 +1,4 @@
-# 录入简谱&&转五线谱的快速直观的方法
+# Word录入简谱 + Python转MusicXML格式
 
 ## Step1：在Word中安装新的字体
 DiziFont.ttf是使用开源的字体制作软件FontForge所编写的字体，将DiziFont.ttf下载至本地后，将它在Word中进行安装，就可以和Word中普通的字体（宋体，黑体...）一样使用了。
