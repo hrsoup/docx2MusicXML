@@ -1,7 +1,7 @@
 # Word录入简谱 + Python转MusicXML格式
 
 ## Step1：在Word中安装新的字体
-DiziFont.ttf是使用开源的字体制作软件FontForge所编写的字体，将DiziFont.ttf下载至本地后，将它在Word中进行安装，就可以和Word中普通的字体（宋体，黑体...）一样使用了。
+DiziFont.ttf是使用开源的字体制作软件FontForge所编写的字体，将DiziFont.ttf下载至本地后，将它在Word中进行安装，就可以和Word中普通的字体（eg: 宋体，黑体）一样使用了。
 ## Step2：在Word中进行简谱录入
 开始进行简谱的录入。首先，第一行为乐曲标题，第二行为调号和节拍。然后，在Word中将字体调至DiziFont，并使用如下的规则进行具体音符的录入：
 
