@@ -20,11 +20,11 @@
 
 ![image](https://github.com/hrsoup/A-Method-to-Collect-Jianpu/blob/main/files/jianpuex.png)
 
-## Step3：将简谱显示的Word文档转成MusicXML格式
+## Step3：将简谱显示的Word文档转成MusicXML/MIDI格式
 
 使用Word2XML.ipynb可将Word文档转换成MusicXML文件。
 
-在MuseScore中可对MusicXML格式文件进行五线谱式的显示，一个例子如下：
+在MuseScore中可对MusicXML格式文件进行五线谱式的显示，一个例子如下，之后也可以通过MuseScore导出MIDI格式文件：
 
 ![image](https://github.com/hrsoup/A-Method-to-Collect-Jianpu/blob/main/files/staff.png)
 
